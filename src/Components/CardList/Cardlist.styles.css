@@ -1,0 +1,7 @@
+.cardList {
+    display: grid;
+    width: 20%;
+    grid-template-columns: auto auto auto auto;
+    margin: auto;
+    padding: 20px;
+}

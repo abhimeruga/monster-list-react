@@ -1,0 +1,15 @@
+.card-container{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    border: 1px solid tomato;
+    border-radius: 20px;
+    transform: translateZ(0);
+    transition: transform 0.25s ease-out;
+    padding: 10px;
+    height: 20vh;
+    margin: 10px;
+}
+.image-size{
+    padding: 5px;
+}
